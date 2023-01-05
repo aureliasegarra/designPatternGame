@@ -1,5 +1,5 @@
-# README
+# Design pattern - pratical work
 
-TP Design Pattern 
+## Project to show simple usage of :
 - Template method 
 - Strategy
